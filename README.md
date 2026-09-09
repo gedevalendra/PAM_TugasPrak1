@@ -8,7 +8,7 @@ NIM   : 124140142
 
 ### Instalasi dan Setup Android Studio
 <p>Ikuti semua panduan dalam proses instalasi Android Studio</p>
-<img src="/image/finalSetup.png" alt="Final Setup" width="500">
+<img src="/image/finalInstalasiAS.png" alt="Final Setup" width="500">
 
 ### Instalasi Kotlin Multiplatform
 <p>Instal Plugin wajib yaitu KMP / Kotlin Multiplatform</p>
